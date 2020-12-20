@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Jdcoin
+Comment=Jdcoin Cryptocurrency
+Comment[fr]=Jdcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Jdcoin, eşten eşe kriptografik sanal para birimi
+Exec=jdcoin-qt %u
+Terminal=false
+Type=Application
+Icon=jdcoin128
+MimeType=x-scheme-handler/jdcoin;
+Categories=Office;Finance;
+StartupWMClass=Jdcoin-qt
